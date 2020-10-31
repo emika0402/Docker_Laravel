@@ -1,1 +1,1 @@
-# Docker_Laravel
+# DockerとLaravelの練習用
